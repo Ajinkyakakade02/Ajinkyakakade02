@@ -88,11 +88,11 @@ public class AjinkyaKakade {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkyakakade02&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkyakakade02&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
-
+-->
 ---
 
 ## 🏆 GitHub Trophies
