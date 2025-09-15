@@ -93,7 +93,6 @@ public class AjinkyaKakade {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkyakakade02&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
 -->
----
 
 ## 🏆 GitHub Trophies
 <div align="center">
