@@ -1,6 +1,18 @@
-Hi there, I'm Ajinkya Kakade! 👋
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Code+Craftsman" alt="Typing SVG" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=Ajinkyakakade02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Ajinkyakakade02?label=Followers&style=social" alt="GitHub followers" /> </div>
-🚀 About Me
+# Hi there, I'm Ajinkya Kakade! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ajinkyakakade02&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Ajinkyakakade02?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+---
+
+## 🚀 About Me
+
 java
 public class AjinkyaKakade {
     private String name = "Ajinkya Kakade";
@@ -12,6 +24,14 @@ public class AjinkyaKakade {
         return "Thanks for visiting my profile! Let's build something amazing together 🚀";
     }
 }
+
+
+💻 **Full Stack Developer** passionate about creating efficient, scalable solutions  
+📊 **DSA Enthusiast** who loves solving complex problems and optimizing algorithms  
+🎯 **Always Learning** and exploring new technologies to stay ahead of the curve  
+🤝 **Open to Collaborate** on interesting projects and innovative ideas  
+
+---
 💻 Full Stack Developer passionate about creating efficient, scalable solutions
 📊 DSA Enthusiast who loves solving complex problems and optimizing algorithms
 🎯 Always Learning and exploring new technologies to stay ahead of the curve
