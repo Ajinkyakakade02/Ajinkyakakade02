@@ -116,15 +116,13 @@ public class AjinkyaKakade {
 ```
 🏅 Problems Solved: 50+ on various platforms
 🎯 Current Focus: Dynamic Programming & Graph Algorithms  
-📚 Platforms: LeetCode, GeeksforGeeks, HackerRank, CodeChef
+📚 Platforms: LeetCode, GeeksforGeeks
 🏆 Goal: Master advanced algorithms and data structures
 ```
 
 <div align="center">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </div>
 
 ---
